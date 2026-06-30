@@ -9,7 +9,7 @@ const audio = [
     ["/audio/ambient/club_music_01.mp3",         "audio/ambient/club_music_01.mp3"],
     ["/audio/ambient/club_music_02.mp3",         "audio/ambient/club_music_02.mp3"],
     ["/audio/ambient/daniel_club_music_01.mp3",  "audio/ambient/daniel_club_music_01.mp3"],
-    ["/audio/ambient/menu_music_01.mp3",         "audio/ambient/menu_music_02.mp3"],
+    ["/audio/ambient/menu_music_01.mp3",         "audio/ambient/menu_music_01.mp3"],
     ["/audio/ambient/menu_music_02.mp3",         "audio/ambient/menu_music_02.mp3"],
     ["/audio/ambient/piano_music_01.mp3",        "audio/ambient/piano_music_01.mp3"],
 
