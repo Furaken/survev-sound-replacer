@@ -12,7 +12,11 @@ Thanks Yunaka for their custom assets.
 4. Press `Load unpacked` button then select and upload the unpacked folder. OR you can just drag & drop the unpacked folder to the page
 
 Note: Remember to press the reload button the update the extension if you have made any changes
-<img width="410" height="221" alt="image" src="https://github.com/user-attachments/assets/7842793b-3485-466a-a102-b18d4b3a1fb5" />
+<img width="410" height="221" alt="installation" src="./readme-img/installation.png" />
+
+# how do i know how an url sounds like?
+In the `background.js` file, there are a lot of game audio urls, they are both combined from surviv.io and survev.de. To open it and hear the actual sounds, combine the game url with the path. For example, to know how `ambient_waves_01` sounds like, simply just combine the game url with the path from the left (`FROM PATH`): https://survev.io/audio/ambient/ambient_waves_01.mp3
+<img width="367" height="332" alt="sound-url" src="./readme-img/sound-url.png" />
 
 # other-assets
 There are some premade assets by others. To apply that asset, move or copy the asset folder to the path where default asset (`audio`) lives, then rename it to `audio`. Remember to rename the default `audio` asset to something else (e.g. `default_asset`) before doing that.
