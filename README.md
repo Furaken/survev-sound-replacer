@@ -15,7 +15,7 @@ Note: Remember to press the reload button the update the extension if you have m
 <img width="410" height="221" alt="installation" src="./readme-img/installation.png" />
 
 # how do i know how an url sounds like?
-In the `background.js` file, there are a lot of game audio urls, they are both combined from surviv.io and survev.de. To open it and hear the actual sounds, combine the game url with the path. For example, to know how `ambient_waves_01` sounds like, simply just combine the game url with the path from the left (`FROM PATH`): https://survev.io/audio/ambient/ambient_waves_01.mp3
+In the `background.js` file, there are a lot of game audio urls, they are both combined from surviv.io and survev.de. To open it and hear the actual sounds, combine the game url with the path. For example, to know how `ambient_waves_01` sounds like, simply just combine the game url with the path from the left (`FROM PATH`): `https://survev.io/audio/ambient/ambient_waves_01.mp3`
 <img width="367" height="332" alt="sound-url" src="./readme-img/sound-url.png" />
 
 # other-assets
