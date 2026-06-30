@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "Survev Customizer",
+  "name": "Survev Sound Replacer",
   "version": "2.0",
-  "description": "Allow you to customize the game background splash art and audios.",
+  "description": "Allow you to customize survev.io and survev.de audios.",
   "permissions": ["declarativeNetRequest"],
   "host_permissions": [
     "*://survev.io/*",

@@ -1,4 +1,5 @@
 const audio = [
+    // FROM PATH (game)                          TO PATH (your asset path, or you can use game path)
     // ---- ambient ------------------------------------
     ["/audio/ambient/ambient_lab_01.mp3",        "audio/ambient/ambient_lab_01.mp3"],
     ["/audio/ambient/ambient_steam_01.mp3",      "audio/ambient/ambient_steam_01.mp3"],
